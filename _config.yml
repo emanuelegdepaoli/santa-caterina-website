@@ -21,8 +21,9 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://mydomain.com'
-baseurl: ''
+# url: 'https://mydomain.com'
+# https://stackoverflow.com/questions/48197580/jekyll-theme-does-not-work-on-github-pages-but-works-locally
+# baseurl: ''
 title: 'Confraternita di S. Caterina, Biandrate'
 description:
 permalink: pretty
