@@ -21,7 +21,7 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-# url: 'https://mydomain.com'
+url: 'https://emanuelegdepaoli.github.io/santa-caterina-website/'
 # https://stackoverflow.com/questions/48197580/jekyll-theme-does-not-work-on-github-pages-but-works-locally
 # baseurl: ''
 title: 'Confraternita di S. Caterina, Biandrate'
