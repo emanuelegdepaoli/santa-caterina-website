@@ -27,7 +27,7 @@ url: 'https://emanuelegdepaoli.github.io/santa-caterina-website/'
 title: 'Confraternita di S. Caterina, Biandrate'
 description:
 permalink: pretty
-logo: '/pictures/logo_cate.jpg'
+logo: './pictures/logo_cate.jpg'
 
 # Pagination
 paginate: 5

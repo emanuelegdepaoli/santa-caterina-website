@@ -1,6 +1,6 @@
 ---
 title: Confraternita di Santa Caterina, Biandrate.
-feature_image: "/pictures/copertina.jpg"
+feature_image: "./pictures/copertina.jpg"
 feature_text: |
   ## Benvenuto
 ---
