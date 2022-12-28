@@ -1,9 +1,7 @@
-# Starter kit for [Alembic](https://alembic.darn.es/)
+# Confraternita di Santa Caterina, Biandrate (NO).  
 
-This is a very simple starting point if you wish to use Alembic [as a Jekyll theme gem](https://alembic.darn.es/#as-a-jekyll-theme) or as a [GitHub Pages remote theme](https://github.com/daviddarnes/alembic-kit/tree/remote-theme) (see `remote-theme` branch).
+This github repository provides codes for generating [the official website of the "Confraternita di Santa Caterina"](https://emanuelegdepaoli.github.io/santa-caterina-website/). 
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-kit)
+## Acknowledgement
 
-or
-
-**[Download the GitHub Pages kit](https://github.com/daviddarnes/alembic-kit/archive/remote-theme.zip)**
+Starter kit for [Alembic](https://alembic.darn.es/). This is a very simple starting point if you wish to use Alembic [as a Jekyll theme gem](https://alembic.darn.es/#as-a-jekyll-theme) or as a [GitHub Pages remote theme](https://github.com/daviddarnes/alembic-kit/tree/remote-theme) (see `remote-theme` branch).
