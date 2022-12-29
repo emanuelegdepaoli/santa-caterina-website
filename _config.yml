@@ -28,7 +28,7 @@ title: 'Confraternita di S. Caterina, Biandrate'
 description:
 permalink: pretty
 # for logo, don't put ./but just /
-logo: '/pictures/logo_cate.jpg'
+logo: '/pictures/logo.jpg'
 
 # Pagination
 paginate: 5
@@ -38,10 +38,17 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Home
   url: /
-- title: Storia
-  url: /storia/
+- title: Chi siamo
+  url: /storia
+- title: La nostra chiesa
+  url: /chiesa
+- title: Galleria
+  url: /galleria
+- title: Contatti
+  url: /contatti
 - title: Blog
   url: /blog/
+
 
 
 # Footer nav
