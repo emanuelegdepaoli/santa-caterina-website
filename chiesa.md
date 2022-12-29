@@ -18,4 +18,4 @@ Ecco le notizie storiche relative alla chiesa di Santa Caterina a Biandrate, di 
 
 - 2010 ‐ 2017 (restauro e risanamento campanile): nel 2010 sono stati effettuati i lavori di recupero e risanamento conservativo della torre campanaria della chiesa. Nel 2013 i restauri conservativi interessarono la copertura della chiesa, terminati nel 2014. Nel 2016 venne sostituita parzialmente la recinzione esterna, attraverso un restauro conservativo. Nel 2017 vennero restaurati il portone ligneo d'ingresso, il coro, il gonfalone e venne fatto un intervento di manutenzione all'ancona lignea del XVII-XVIII secolo.
 
-[^1]: Fonte: https://beweb.chiesacattolica.it/
+[^1]: Fonte: [https://www.beweb.chiesacattolica.it/edificidiculto/edificio/62059/Chiesa+del+Santissimo+Sacramento+e+di+Santa+Caterina#action=ricerca%2Frisultati&view=griglia&locale=it&ordine=&ambito=CEIA&liberadescr=chiesa+santa+caterina&liberaluogo=biandrate&highlight=Chiesa&highlight=Santa&highlight=Caterina](Portale web dei beni ecclesiastici)
