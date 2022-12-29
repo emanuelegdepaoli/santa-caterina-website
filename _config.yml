@@ -31,8 +31,6 @@ permalink: pretty
 logo: '/pictures/logo.jpg'
 encoding: utf-8 # Make sure the encoding is right
 lang: it # Set the site language
-description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
-thanks_url: https://formspree.io/f/xoqzaozw # url formspree
 # google_analytics: ""
 # google_analytics_anonymize_ip: ""
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
