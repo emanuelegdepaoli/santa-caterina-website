@@ -1,6 +1,6 @@
 # Confraternita di Santa Caterina in Biandrate (NO).  
 
-This gitHub repository provides codes for generating [the official website of the "Confraternita del SS. Sacramento e di Santa Caterina in Biandrate"](https://emanuelegdepaoli.github.io/santa-caterina-website/), an ecclesiastical congregation which is mentioned in documents dating from 1556. It is located in Biandrate, a small village in Northwest Italy.
+This GitHub repository provides codes for generating [the official website of the "Confraternita del SS. Sacramento e di Santa Caterina in Biandrate"](https://emanuelegdepaoli.github.io/santa-caterina-website/), an ecclesiastical congregation which is mentioned in documents dating from 1556. It is located in Biandrate, a small village in Northwest Italy.
 
 ## Acknowledgement
 
