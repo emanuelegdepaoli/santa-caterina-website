@@ -1,5 +1,5 @@
 ---
-title: Confraternita del SS. Sacramento e di Santa Caterina, Biandrate.
+title: Confraternita del SS. Sacramento e di Santa Caterina in Biandrate.
 feature_image: "./pictures/copertina.jpg"
 ---
 
