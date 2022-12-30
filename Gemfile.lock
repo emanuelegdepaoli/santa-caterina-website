@@ -52,6 +52,8 @@ GEM
       html-pipeline (~> 2.3)
       jekyll (>= 3.7, < 5.0)
     jekyll-paginate (1.1.0)
+    jekyll-pdf-embed (1.1.1)
+      jekyll
     jekyll-redirect-from (0.16.0)
       jekyll (>= 3.3, < 5.0)
     jekyll-remote-theme (0.4.3)
@@ -115,6 +117,7 @@ DEPENDENCIES
   jekyll-include-cache (~> 0.2)
   jekyll-mentions (~> 1.6.0)
   jekyll-paginate (~> 1.1.0)
+  jekyll-pdf-embed
   jekyll-redirect-from (~> 0.16)
   jekyll-remote-theme (~> 0.3)
   jekyll-seo-tag (~> 2.6.1)
