@@ -22,7 +22,7 @@ plugins:
 - jekyll-pdf-embed
 
 # Site settings
-url: https://emanuelegdepaoli.github.io/santa-caterina-website/
+url: https://www.santacaterinabiandrate.it
 # https://stackoverflow.com/questions/48197580/jekyll-theme-does-not-work-on-github-pages-but-works-locally
 # baseurl: ''
 title: 'Confraternita del SS. Sacramento e Santa Caterina in Biandrate'
