@@ -1,7 +1,7 @@
 <!-- modified to include lightbox 2--> 
 
 <figure class="figure_lightbox  figure_lightbox--{{ include.position | default: 'center' }}">
-    <a href="{{ include.image }}" data-lightbox="{{ include.alt | default: include.caption }}">
+    <a href="{{ include.image }}" data-lightbox="{{ include.data-lightbox | default: include.caption }}">
     <img class="image" src="{{ include.image }}" alt="{{ include.alt | default: include.caption }}" {{ include.width ? include.width | prepend: 'width="' | append: '"' }} {{ include.height ? include.height | prepend: 'height="' | append: '"' }}>
     {% if include.caption %}<figcaption class="caption">{{ include.caption }}</figcaption>{% endif %}</a>
   </figure>
