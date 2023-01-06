@@ -70,7 +70,7 @@ collections:
     description: ""
     feature_text: |
       Blog di Santa Caterina
-    feature_image: "/assets/other_images/copertina.jpg"
+    feature_image: "/assets/images/copertina.jpg"
 
 # Collection settings
 defaults:
