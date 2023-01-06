@@ -44,7 +44,7 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Home
   url: /
-- title: Chi siamo
+- title: La confraternita 
   url: /storia/
 - title: La nostra chiesa
   url: /chiesa/
@@ -59,7 +59,7 @@ navigation_header:
 
 # Footer nav
 navigation_footer:
-- title: Torna in cima
+- title: Torna alla Home 
   url: "#top"
 
 # Collections
