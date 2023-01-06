@@ -29,7 +29,7 @@ title: 'Confraternita del SS. Sacramento e Santa Caterina in Biandrate'
 description:
 permalink: pretty
 # for logo, don't put ./but just /
-logo: '/pictures/logo.jpg'
+logo: '/assets/images/logo.jpg'
 encoding: utf-8 # Make sure the encoding is right
 lang: it # Set the site language
 google_analytics: "G-VVSRMK8RWK"
@@ -45,13 +45,13 @@ navigation_header:
 - title: Home
   url: /
 - title: Chi siamo
-  url: /storia
+  url: /storia/
 - title: La nostra chiesa
-  url: /chiesa
+  url: /chiesa/
 - title: Galleria
-  url: /galleria
+  url: /galleria/
 - title: Contatti
-  url: /contatti
+  url: /contatti/
 - title: Blog
   url: /blog/
 
@@ -70,7 +70,7 @@ collections:
     description: ""
     feature_text: |
       Blog di Santa Caterina
-    feature_image: "/pictures/copertina.jpg"
+    feature_image: "/assets/other_images/copertina.jpg"
 
 # Collection settings
 defaults:

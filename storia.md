@@ -39,4 +39,4 @@ Le trascrizioni sono presenti in un'inventario di scritture, nonché di registri
 
 ## Storia estesa
 
- {% pdf "/files/relazione_storica.pdf" %}
+ {% pdf "/assets/files/relazione_storica.pdf" %}

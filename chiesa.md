@@ -3,8 +3,8 @@ title: La chiesa di Santa Caterina
 ---
 
 <figure class="half">
-    <img style="width:300px" src="/pictures/chiesa.jpg">
-    <img style="width:300px" src="/pictures/campanile.jpg">
+    <img style="width:300px" src="/assets/other_images/chiesa.jpg">
+    <img style="width:300px" src="/assets/other_images/campanile.jpg">
 </figure>
 
 
