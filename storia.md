@@ -1,11 +1,11 @@
 ---
-title:
+title: La confraternita 
 ---
 
 #### Indice
-- [Chi siamo](## Chi siamo)
-- [Storia in breve](## Storia in breve)
-- [Storia estesa](## Storia estesa)
+- [Chi siamo](#chi-siamo)
+- [Storia in breve](#storia-in-breve)
+- [Storia estesa](#storia-estesa)
 
 {% include video.html id="nk6eOqnVMPc" %}
 
