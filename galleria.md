@@ -9,16 +9,12 @@ In costruzione...
 
 ### Chiesa e dintorni
 
-<div class="gg-container">
-    <div class="gg-box">
-        <img src="/assets/other_images/chiesa/chiesa1.jpg">
-        <img src="/assets/other_images/chiesa/chiesa2.jpg">
-    </div>
-</div>
-
-<div>
-    {% include figure_lightbox.html image= "/assets/other_images/chiesa/chiesa1.jpg" data-lightbox = "chiesa" caption_lightbox="Caption2" width="100" height="100" %}
-
-    {% include figure_lightbox.html image= "/assets/other_images/chiesa/chiesa2.jpg"  data-lightbox = "chiesa" caption_lightbox="Caption1" width="100" height="100" %}
-
+<div class="grid">
+  {% include figure_lightbox.html image= "/assets/other_images/chiesa/chiesa1.jpg" data-lightbox = "chiesa" caption_lightbox="Caption" %}
+  {% include figure_lightbox.html image= "/assets/other_images/chiesa/chiesa2.jpg"  data-lightbox = "chiesa" caption_lightbox="Caption1" %}
+  {% include figure_lightbox.html image= "/assets/other_images/chiesa/chiesa3.jpg"  data-lightbox = "chiesa" caption_lightbox="Caption1" %}
+  {% include figure_lightbox.html image= "/assets/other_images/chiesa/chiesa4.jpg"  data-lightbox = "chiesa" caption_lightbox="Caption1" %}
+  {% include figure_lightbox.html image= "/assets/other_images/chiesa/chiesa5.jpg"  data-lightbox = "chiesa" caption_lightbox="Caption1" %}
+  {% include figure_lightbox.html image= "/assets/other_images/chiesa/chiesa6.jpg"  data-lightbox = "chiesa" caption_lightbox="Caption1" %}
+  {% include figure_lightbox.html image= "/assets/other_images/chiesa/chiesa7.jpg"  data-lightbox = "chiesa" caption_lightbox="Caption1" %}
 </div>
