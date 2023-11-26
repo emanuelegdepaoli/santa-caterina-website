@@ -1,0 +1,9 @@
+{
+  "lang": "it",
+  "name": "Confraternita del SS. Sacramento e Santa Caterina in Biandrate",
+  "short_name": "ConfraternitadelSS.SacramentoeSantaCaterinainBiandrate",
+  "theme_color": "#24292e",
+  "background_color": "#ffffff",
+  "start_url": "/",
+  "display": "standalone"
+}
